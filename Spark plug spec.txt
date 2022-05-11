@@ -1,0 +1,22 @@
+
+Here's a typical NGK spark plug part number: BPR6EVX-11.
+
+B Thread diameter = 14 mm
+P Construction = Projected Insulator Type
+(K) Construction = Hex size 5/8 in, projected tip
+R Construction = Resistor Type
+6 Heat Rating Number = 2 Hot -> Cold
+E Thread Reach = 12.7 mm
+S Firing End Construction = Standard 2.6 mm diameter center electrode
+(VX) Firing End Construction = High performance platinum
+(K) Firing End Construction = 2 ground electrodes
+(N) Firing End Construction = Special side electrode
+(-11) Gap Width = 1.1 mm (0.044 in)
+
+B Thread diameter = 14 mm
+P Construction = Projected Insulator Type
+R Construction = Resistor Type
+6 Heat Rating Number = 2 Hot -> Cold
+E Thread Reach = 12.7 mm
+K Firing End Construction = 2 ground electrodes
+N Firing End Construction = Special side electrode
