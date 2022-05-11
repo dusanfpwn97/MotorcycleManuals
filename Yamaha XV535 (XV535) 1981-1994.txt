@@ -1,0 +1,84 @@
+Engine
+Spark plugs
+Type ---- NGK BP7ES or ND W22EP-U
+Gap ---- 0.7 to 0.8 mm (0.028 to 0.032 inch)
+Valve clearances (COLD engine)
+Intake ---- 0.07 to 0.12 mm (0.003 to 0.005 inch)
+Exhaust ---- 0.12 to 0.17 mm (0.005 to 0.007 inch)
+Engine idle speed ---- 1150 to 1250 rpm
+Cylinder compression pressure (at sea level)
+Standard ---- 10.75 Bars (156 psi)
+Maximum ---- 11.78 Bars (171 psi)
+Minimum ---- 9.78 Bars (142 psi)
+Maximum difference between cylinders ---- 0.96 Bars (14 psi)
+Carburetor synchronization
+Vacuum at idle speed ---- 230 mm Hg (9.06 inch Hg)
+Maximum vacuum difference between cylinders ---- 10 mm Hg (0.39 inch Hg)
+Cylinder numbering (from rear to front of bike) ---- 1-2
+
+Miscellaneous
+Brake pedal position ---- 38 mm (1.5 inch) above the top of the footpeg
+
+Shift pedal position ---- 50 to 60 mm (2.0 to 2.4 inches) above the top of the footpeg
+Freeplay adjustments
+Throttle grip ---- 2 to 5 mm (0.08 to 0.20 inch)
+Clutch lever ---- 2 to 3 mm (0.08 to 0.12 inch)
+Front brake lever ---- 2 to 5 mm (0.08 to 0.20 inch)
+Rear brake pedal ---- 20 to 30 mm (0.8 to 1.2 inches)
+Battery electrolyte specific gravity ---- 1.280 at 20-degrees C (68-degrees F)
+
+Minimum tire tread depth* ---- 1 mm (0.04 inch)
+Tire pressures (cold)
+Front
+1987 and 1988 US, all UK models ---- 1.93 Bars (28 psi)
+1989 and later US models ---- 1.99 Bars (29 psi)
+
+Rear
+Up to 90 kg (198 lbs)
+1987 and 1988 US, all UK models ---- 2.2 Bars (32 psi)
+1989 and later US models ---- 2.27 Bars (33 psi)
+Above 90 kg (198 lbs) or high speed riding ---- 2.48 bars (36 psi)
+
+Torque specifications
+Oil drain plug ---- 43 Nm (31 ft-lbs)
+Oil filter cover bolts ---- 10 Nm (7.2 ft-lbs)
+Spark plugs ---- 12.5 Nm (9 ft-lbs)
+Steering head bearing ring nuts
+Initial torque ---- 38 Nm (27 ft-lbs)
+Final torque ---- 10 Nm (7.2 ft-lbs)
+Steering stem bolt ---- 54 Nm (39 ft-lbs)
+Valve adjuster locknuts ---- 14 Nm (10 ft-lbs)
+Rocker cover bolts ---- 10 Nm (7.2 ft-lbs)
+Final drive filler and drain plugs ---- 23 Nm (17 ft-lbs)
+
+Recommended lubricants and fluids
+Fuel type
+US ---- Unleaded
+UK ---- Regular
+Fuel capacity
+1987 and 1988 models
+Total ---- 8.6 liters (2.3 US gal, 1.9 Imp gal)
+Reserve ---- 2.0 liters (0.5 US gal, 0.4 Imp gal)
+1989 and later models
+Total ---- 13.5 liters (3.6 US gal, 3.0 Imp gal)
+Reserve ---- 2.5 liters (0.7 US gal, 0.5 Imp gal
+Engine/transmission oil
+Type ---- API grade SE or SF
+
+Viscosity
+Consistently below 15 degrees C (60 degrees F) ---- SAE 10W30
+Consistently above 5 degrees C (40 degrees F) ---- SAE 20W40
+Capacity
+With filter change ---- 2.8 liters (3.0 US qt, 5.0 Imperial pt)
+Oil change only ---- 2.6 liters (2.7 US qt, 4.6 Imperial pt)
+Brake fluid ---- DOT4
+Final gear
+Type ---- SAE 80 API GL-4 hypoid gear oil
+Capacity ---- 0.19 liters (0.2 US qt, 0.34 Imp pt
+Wheel bearings ---- Medium weight, lithium-based multi-purpose grease
+Swingarm pivot bearings ---- Medium weight, lithium-based multi-purpose grease
+Cables and lever pivots ---- Chain and cable lubricant or 10W30 motor oil
+Sidestand/centerstand pivots ---- Chain and cable lubricant or 10W30 motor oil
+Brake pedal/shift lever pivots ---- Chain and cable lubricant or 10W30 motor oil
+Throttle grip ---- Multi-purpose grease or dry film lubricant
+'In the UK, tread depth must be at least 1 mm over 3/4 of the tread breadth
